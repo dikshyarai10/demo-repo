@@ -1,3 +1,3 @@
 # Demo
 
-some description!
+this is my first repository
